@@ -1,0 +1,8 @@
+Pods/
+*.lock
+.DS_Store
+*.yml
+xcshareddata/*
+xcuserdata/*
+xcuserdata/
+xcshareddata/
